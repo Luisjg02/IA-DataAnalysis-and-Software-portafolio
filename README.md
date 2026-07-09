@@ -5,6 +5,7 @@ Hola, Soy **Luis José González**, desarrollador enfocado en Inteligencia Artif
 ## Estructura del Portafolio
 
 *   **`Analisis de datos`**: Limpieza, exploración de datos (EDA) y generación de insights.
+*   **`Automatizaciones`**: Creación de pipelines de procesamiento inteligente, flujos de trabajo automáticos (como sistemas de procesamiento y enrutamiento de correos) y herramientas de automatización basadas en CLI.
 *   **`Computer-vision(openCV)`**: Proyectos de visión artificial, procesamiento de imágenes y detección de características.
 *   **`Games-IA`**: Aplicación de algoritmos inteligentes y lógica avanzada en entornos de videojuegos.
 *   **`LLMs y NLP`**: Procesamiento de lenguaje natural, prompts y pipelines con modelos de lenguaje masivos.
@@ -17,7 +18,7 @@ Hola, Soy **Luis José González**, desarrollador enfocado en Inteligencia Artif
 *   **Lenguajes:** Python, SQL
 *   **Machine & Deep Learning:** TensorFlow, Keras, PyTorch, Scikit-Learn
 *   **Visión Artificial:** OpenCV
-*   **Backend & Devops:** FastAPI, Docker, PostgreSQL
+*   **Backend, Devops & Automatización:** FastAPI, Docker, PostgreSQL, n8n
 *   **Data BI:** Power BI, Pandas, NumPy
 
 ---
